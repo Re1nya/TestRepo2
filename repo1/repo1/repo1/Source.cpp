@@ -5,6 +5,6 @@ int main()
 	int god;
 	cout << " Vvedite god ";
 	cin >> god;
-	if (god % 4) cout << " Nevisokosniy ";
+	if (god % 4) cout << " Nevisokosniy1 ";
 	else cout << " Visokosniy ";
 }
